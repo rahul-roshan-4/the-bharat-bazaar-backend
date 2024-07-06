@@ -10,6 +10,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://the-bharat-bazaar-frontend.onrender.com",
+      "https://e-shop-f458.onrender.com",
     ],
     credentials: true,
   })
